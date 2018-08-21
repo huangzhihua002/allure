@@ -7,4 +7,4 @@ class TestLogin:
         assert 1
 
     def test_login3(self):
-        assert 1
+        assert 0
